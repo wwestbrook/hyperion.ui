@@ -1,0 +1,13 @@
+@import './quasar.variables.scss';
+@import '~quasar-styl';
+// @import '~quasar-addon-styl';
+body.body--light {
+  /* ... */
+  background: red;
+}
+
+body.body--dark {
+  /* ... */
+  // background: #20262E;
+  background: #121212;
+}
